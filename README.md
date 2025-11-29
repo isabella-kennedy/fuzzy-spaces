@@ -75,5 +75,5 @@ fuzzy-spaces-xfigura/
 
 ---
 
-*This repository is maintained as part of the thesis documentation for Isabella Kennedy.*
+*This repository is maintained as part of the thesis documentation for Isabella Kennedy*
 
